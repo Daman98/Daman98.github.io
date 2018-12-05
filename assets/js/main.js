@@ -69,11 +69,11 @@ $(document).ready(function() {
      SLIDER
      =============================================== */
     $(".cover_slider").owlCarousel({
-        loop:true,
-        autoplay:true,
+        loop:false,
+        autoplay:false,
         smartSpeed:1000,
         autoplayHoverPause:false,
-        dots:true,
+        dots:false,
         nav:false,
         items:1,
         animateOut: 'fadeOut',
