@@ -401,6 +401,19 @@ img {
 .iframe-container-4x3 {
   padding-top: 75%;
 }
+
+@media only screen and (max-width: 1100px) {
+  .logo_tedx { 
+    width: 200px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .speakers_tedx { 
+    display: none;
+    visibility: hidden;
+  }
+}
 /* ----------------colors------------------- */
 .color-gray {
   color: #f0f2f6 !important;
