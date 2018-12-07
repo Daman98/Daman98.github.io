@@ -76,10 +76,10 @@ h6, .h6 {
 p {
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
-  margin: 0 0 15px;
+  margin: 0 0 2px;
   line-height: 24px;
   font-weight: 400;
-  color: #838383;
+  color: #000000;
 }
 p:last-child {
   margin-bottom: 0;
@@ -2397,10 +2397,10 @@ Cover
   float: left;
 }
 .icon_box_two .content .box_title {
-  margin-bottom: 3px;
+  margin-bottom: 0px;
   font-weight: 500;
   text-transform: uppercase;
-  margin-top: 6px;
+  margin-top: 0px;
 }
 .icon_box_two .content p {
   font-weight: 500;
