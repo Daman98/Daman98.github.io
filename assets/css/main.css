@@ -2581,9 +2581,18 @@ Cover
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
+.speaker_box:hover .speaker_img .info_box .name1 {
+  color: #ffffff;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
 .speaker_box:hover .speaker_img .info_box .position {
   color: #ffffff;
 }
+.speaker_box:hover .speaker_img .info_box .position1 {
+  color: #ffffff;
+}
+
 
 /*  ----------------------------------------------------
 7 Price box
