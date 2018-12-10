@@ -115,6 +115,10 @@ ul.nosyely_list {
   position: relative;
   margin-bottom: 25px;
 }
+.section_title1 {
+  position: relative;
+  margin-bottom: 10px;
+}
 .section_title .title {
   text-transform: capitalize;
   color: #e62b1e;
@@ -122,6 +126,24 @@ ul.nosyely_list {
   font-size: 36px;
 }
 .section_title .title:before {
+  width: 30px;
+  content: " ";
+  position: absolute;
+  border-top: solid 3px #e62b1e;
+  left: 0;
+  top: 0;
+}
+
+.section_title1 .title1 {
+  text-transform: capitalize;
+  color: #e62b1e;
+  padding: 10px 0;
+  font-size: 26px;
+}
+.section_title1 h3 {
+  margin-bottom: 1px;
+}
+.section_title1 .title1:before {
   width: 30px;
   content: " ";
   position: absolute;
@@ -1866,6 +1888,8 @@ footer .newsletter_form .form-control {
   text-transform: capitalize;
   color: #ffffff;
 }
+
+
 .copyright_footer ul.footer_menu {
   padding: 0;
   margin: 0;
