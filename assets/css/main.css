@@ -2442,6 +2442,35 @@ Cover
   color: #838383;
 }
 
+.icon_box_two1 {
+  position: relative;
+  padding: 0;
+  margin: 25px 0;
+}
+.icon_box_two1 i {
+  position: absolute;
+  left: 0;
+  font-size: 51px;
+  width: 50px;
+  color: #e62b1e;
+  top: 0;
+  bottom: auto;
+  line-height: 1;
+}
+.icon_box_two1 .content {
+  margin-left: 60px;
+  float: left;
+}
+.icon_box_two1 .content .box_title {
+  margin-bottom: 0px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 0px;
+}
+.icon_box_two1 .content p {
+  font-weight: 500;
+  color: #838383;
+}
 /*  ----------------------------------------------------
 6 speakers
 -------------------------------------------------------- */
