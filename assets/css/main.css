@@ -2065,8 +2065,8 @@ Cover
 }
 .cover_slider .cover_item .slider_content {
   display: table;
-  background-color: rgba(0, 0, 0, 0.2);
-  height: 100%;
+  /*background-color: rgba(0, 0, 0, 0.2);
+  */height: 100%;
   width: 100%;
   position: relative;
   top: 0;
